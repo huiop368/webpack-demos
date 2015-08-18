@@ -1,0 +1,25 @@
+{
+  "name": "webpack-demos",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huiop368/webpack-demos.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/huiop368/webpack-demos/issues"
+  },
+  "devDependencies": {
+    "react": "~0.13.3",
+    "webpack": "~1.11.0",
+    "webpack-dev-server": "~1.10.1",
+    "jsx-loader": "~0.13.2"
+  }
+}
